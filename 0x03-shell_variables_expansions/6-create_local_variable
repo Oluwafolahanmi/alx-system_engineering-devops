@@ -1,2 +1,2 @@
 #!/bin/bash
-foo () { name="BEST" ; value="School" }
+BEST=School
